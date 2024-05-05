@@ -1,0 +1,42 @@
+export const data =[
+  {
+    question: "Which of the following is used in React.js to increase performance?",
+    option1: "Virtual DOM",
+    option2: "Original DOM",
+    option3: "Both opt-1 and opt-2",
+    option4: "Actual DOM",
+    ans: 1,
+  },
+  {
+    question: "Identify the one which is used to pass data to components from outside",
+    option1: "Render with arguments",
+    option2: "setState",
+    option3: "PropTypes",
+    option4: "props",
+    ans: 4,
+  },
+  {
+    question: "What is Babel?",
+    option1: "JavaScript compiler",
+    option2: "JavaScript interpreter",
+    option3: "JavaScript transpiler",
+    option4: "None of the above",
+    ans: 1,
+  },
+  {
+    question: "Identify the command used to create a react app.",
+    option1: "npm install create-react-app",
+    option2: "npm install -g create-react-app",
+    option3: "install -g create-react-app",
+    option4: "None of the above",
+    ans: 2,
+  },
+  {
+    question: "A state in React.js is also known as?",
+    option1: "The internal storage of the component",
+    option2: "External storage of the component",
+    option3: "Permanent storage",
+    option4: "All of the above",
+    ans: 1,
+  },
+]
